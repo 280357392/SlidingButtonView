@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">滑动删除菜单</string>
+    <!--名字-->
+    <string name="name1">赵...</string>
+    <string name="name2">孙...</string>
+    <string name="name3">李...</string>
+    <string name="name4">周...</string>
+    <string name="name5">吴...</string>
+    <string name="name6">郑...</string>
+    <string name="name7">王...</string>
+    <string name="name8">冯...</string>
+    <string name="name9">陈...</string>
+    <string name="name10">卫...</string>
+    <string name="name11">沈...</string>
+
+    <!--信息-->
+    <string name="info1">世上没有绝望的处境，只有对处境绝望的人。</string>
+    <string name="info2">大多数人想要改造这个世界，但却罕有人想改造自己。 </string>
+    <string name="info3">积极的人在每一次忧患中都看到一个机会， 而消极的人则在每个机会都看到某种忧患。</string>
+    <string name="info4">莫找借口失败，只找理由成功。</string>
+    <string name="info5">世上没有绝望的处境，只有对处境绝望的人。  </string>
+    <string name="info6">当你感到悲哀痛苦时，最好是去学些什么东西。学习会使你永远立于不败之地。</string>
+    <string name="info7">世界上那些最容易的事情中，拖延时间最不费力。 </string>
+    <string name="info8">人之所以能，是相信能。</string>
+    <string name="info9">一个有信念者所开发出的力量，大于99个只有兴趣者。 </string>
+    <string name="info10">每一发奋努力的背后，必有加倍的赏赐。</string>
+    <string name="info11">人生伟业的建立 ，不在能知，乃在能行。</string>
+
+</resources>
